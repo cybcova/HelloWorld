@@ -8,13 +8,9 @@
 - [**Características**](#características)
 - [**Instalación**](#instalación)
   - Paso 1: Clona el repositorio.
-    ```bash
-    git clone https://github.com/tu-usuario/tu-proyecto.git
-    ```
-  - Paso 2: Instala las dependencias.
-    ```bash
-    npm install
-    ```
+    - Paso 2: Instala las dependencias.
+        -23434FEW
+
 - [**Uso**](#uso)
 - [**Contribuciones**](#contribuciones)
 - [**Licencia**](#licencia)
