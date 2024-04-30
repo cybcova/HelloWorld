@@ -1,5 +1,5 @@
 # Introducción a la programación
-prueba
+
 ## PRESENTACIÓN
 La solución de problemas a través de la programación de computadoras, se logra mediante un doble aprendizaje. El primero se relaciona con los fundamentos de la programación estructurada y orientada a objetos, para representar, en forma de programas, los algoritmos que dan solución a problemas determinados. El segundo aprendizaje es un lenguaje de programación acorde con el tipo de problemas que se desea resolver. En este curso se abordan temas fundamentales para introducir al participante en la solución de problemas a través de algoritmos, con el empleo de los paradigmas de programación estructurada y la programación orientada a objetos. A partir de los conocimientos adquiridos, el participante podrá continuar el aprendizaje de un lenguaje de programación específico.
 
